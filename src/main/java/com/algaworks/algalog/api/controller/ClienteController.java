@@ -24,7 +24,7 @@ public class ClienteController {
 		cliente2.setNome("Peterson");
 		cliente2.setEmail("pethu@gmail.com");
 		cliente2.setTelefone("123456789");
-
+		
 		return Arrays.asList(cliente1, cliente2);
 	}
 }
